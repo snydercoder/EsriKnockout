@@ -1,6 +1,0 @@
-C:\Users\matts_000\Dropbox\Calvary Logic\Talks\ESRI User Conference 2015\CodeDemo\EsriKnockout\EsriKnockout.Web\bin\EsriKnockout.Web.dll.config
-C:\Users\matts_000\Dropbox\Calvary Logic\Talks\ESRI User Conference 2015\CodeDemo\EsriKnockout\EsriKnockout.Web\bin\EsriKnockout.Web.dll
-C:\Users\matts_000\Dropbox\Calvary Logic\Talks\ESRI User Conference 2015\CodeDemo\EsriKnockout\EsriKnockout.Web\bin\EsriKnockout.Web.pdb
-C:\Users\matts_000\Dropbox\Calvary Logic\Talks\ESRI User Conference 2015\CodeDemo\EsriKnockout\EsriKnockout.Web\obj\Debug\EsriKnockout.Web.csprojResolveAssemblyReference.cache
-C:\Users\matts_000\Dropbox\Calvary Logic\Talks\ESRI User Conference 2015\CodeDemo\EsriKnockout\EsriKnockout.Web\obj\Debug\EsriKnockout.Web.dll
-C:\Users\matts_000\Dropbox\Calvary Logic\Talks\ESRI User Conference 2015\CodeDemo\EsriKnockout\EsriKnockout.Web\obj\Debug\EsriKnockout.Web.pdb
